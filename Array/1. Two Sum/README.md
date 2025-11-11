@@ -33,7 +33,8 @@ Only one valid answer exists.
 ## My idea (n square)  
 Simply use nested loop to find two index then return.  
 
-## My idea (n log n)  
-Calculate y = target - x, and sort the nums. (n log n with qsort)  
-Then find y using binary search. (log n)  
+## My idea (n)  
+Using hash table (unordered_map in c++) to record elements and their indexes.
+Find y = target - x in O(n) time.
+
 
