@@ -1,5 +1,7 @@
 # 1. Two Sum
 
+><https://leetcode.com/problems/two-sum/>
+
 ## Questions
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  
@@ -36,5 +38,6 @@ Simply use nested loop to find two index then return.
 ## My idea (n)  
 Using hash table (unordered_map in c++) to record elements and their indexes.
 Find y = target - x in O(n) time.
+
 
 
