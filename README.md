@@ -10,7 +10,7 @@ If you like it, please give me a star!
 - [x] 121. Best Time to Buy and Sell Stock
 - [x] 217. Contains Duplicate
 - [ ] 238. Product of Array Except Self
-- [ ] 53. Maximum Subarray
+- [x] 53. Maximum Subarray
 - [ ] 152. Maximum Product Subarray
 - [ ] 153. Find Minimum in Rotated Sorted Array
 - [ ] 33. Search in Rotated Sorted Array
