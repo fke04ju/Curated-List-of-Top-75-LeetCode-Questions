@@ -19,7 +19,7 @@ If you like it, please give me a star!
 
 ## Binary
 - [ ] 371. Sum of Two Integers
-- [ ] 191. Number of 1 Bits
+- [x] 191. Number of 1 Bits
 - [ ] 338. Counting Bits
 - [ ] 268. Missing Number
 - [ ] 190. Reverse Bits
