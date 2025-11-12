@@ -20,7 +20,7 @@ If you like it, please give me a star!
 ## Binary
 - [x] 371. Sum of Two Integers
 - [x] 191. Number of 1 Bits
-- [ ] 338. Counting Bits
+- [x] 338. Counting Bits
 - [ ] 268. Missing Number
 - [ ] 190. Reverse Bits
 
