@@ -25,7 +25,7 @@ If you like it, please give me a star!
 - [ ] 190. Reverse Bits
 
 ## Dynamic Programming
-- [ ] 70. Climbing Stairs
+- [x] 70. Climbing Stairs
 - [ ] 322. Coin Change
 - [ ] 300. Longest Increasing Subsequence
 - [ ] 1143. Longest Common Subsequence
