@@ -18,7 +18,7 @@ If you like it, please give me a star!
 - [ ] 11. Container With Most Water
 
 ## Binary
-- [ ] 371. Sum of Two Integers
+- [x] 371. Sum of Two Integers
 - [x] 191. Number of 1 Bits
 - [ ] 338. Counting Bits
 - [ ] 268. Missing Number
