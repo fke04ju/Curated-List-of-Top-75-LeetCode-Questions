@@ -72,7 +72,7 @@ If you like it, please give me a star!
 - [ ] 3. Longest Substring Without Repeating Characters
 - [ ] 424. Longest Repeating Character Replacement
 - [ ] 76. Minimum Window Substring
-- [ ] 242. Valid Anagram
+- [x] 242. Valid Anagram
 - [ ] 49. Group Anagrams
 - [ ] 20. Valid Parenthess
 - [ ] 125. Valid Palindrome
