@@ -22,8 +22,11 @@ Input: prices = [7,6,4,3,1]
 Output: 0  
 Explanation: In this case, no transactions are done and the max profit = 0.  
 
-## My idea (Kadane's algorithm)
+## My idea (Kadane's algorithm + Prefix array)
 
 Kadane's Algorithm :
 * step 1 : If current element array sum + new element > new element, put the new element into current array. Otherwise, let the new element as a new array.
+
 * step 2 : Record current maximum sum
+  
+Use prefix array to record the price change, then use Kadane's algorithm to calculate the maximum segment with prefix array.  
