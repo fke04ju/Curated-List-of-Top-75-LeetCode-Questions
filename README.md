@@ -22,7 +22,7 @@ If you like it, please give me a star!
 - [x] 191. Number of 1 Bits
 - [x] 338. Counting Bits
 - [ ] 268. Missing Number
-- [ ] 190. Reverse Bits
+- [x] 190. Reverse Bits
 
 ## Dynamic Programming
 - [x] 70. Climbing Stairs
