@@ -26,7 +26,7 @@ If you like it, please give me a star!
 
 ## Dynamic Programming
 - [x] 70. Climbing Stairs
-- [ ] 322. Coin Change
+- [x] 322. Coin Change
 - [ ] 300. Longest Increasing Subsequence
 - [ ] 1143. Longest Common Subsequence
 - [ ] 139. Word Break
