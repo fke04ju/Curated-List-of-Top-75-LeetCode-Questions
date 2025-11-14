@@ -73,7 +73,7 @@ If you like it, please give me a star!
 - [ ] 424. Longest Repeating Character Replacement
 - [ ] 76. Minimum Window Substring
 - [x] 242. Valid Anagram
-- [ ] 49. Group Anagrams
+- [x] 49. Group Anagrams
 - [ ] 20. Valid Parenthess
 - [ ] 125. Valid Palindrome
 - [ ] 5. Longest Palindromic Substring
